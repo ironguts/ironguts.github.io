@@ -1,3 +1,17 @@
-a {
+{
     text-decoration-style: dashed;
+}
+
+/* Increase spacing between paragraphs.
+Do not use bottom margin because that also adds extra margin above the first elements in lists.
+Use top margin instead.*/
+.paragraph {
+margin: 20px 0 0 0;
+}
+
+/* Using the default bottom margin 20px makes makes nested lists ugly
+because there's an extra vertical space.
+Therefore we use zero here: */
+#right p {
+margin: 0 0 0 0;
 }

@@ -1,10 +1,11 @@
-{:title "About"
+{:title "Mengenai Iron Guts"
  :layout :page
  :page-index 0
  :navbar? true
  :home? true}
 
 ![Image 1](/img/ighema.jpg)
+![Image 2](/img/irongutssanda.png)
 # Selamat Datang di Iron Guts!
 
 Hei! Kami adalah grup Historical European Martial Art Club DAN Chinese Martial Arts - Sanda di Jakarta! 
